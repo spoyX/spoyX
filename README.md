@@ -118,13 +118,7 @@ I've worked across multiple technologies which taught me that good software isn'
 
 ---
 
-# 👀 Profile Views
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=spoyX&style=for-the-badge&color=blue"/>
-
-</p>
 
 ---
 
