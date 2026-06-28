@@ -17,7 +17,6 @@ I'm a Software Engineering student at **ESPRIT School of Engineering** who genui
 I've worked across multiple technologies which taught me that good software isn't about the framework, it's about clean architecture, maintainable code, and solving the right problem.
 
 * 🎓 Software Engineering · ESPRIT, Tunisia
-* 🚀 Former Full-Stack Intern · AEROS Innovation Center
 * 🔨 I build things end-to-end — backend, frontend, databases, deployment
 * 💻 Passionate about Software Engineering & System Design
 * 📍 Based in Tunisia · Open to remote opportunities
