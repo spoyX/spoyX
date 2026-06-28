@@ -28,11 +28,11 @@ I've worked across multiple technologies which taught me that good software isn'
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/adem-ben-chiboub-9b9390338/)">
 <img src="https://img.shields.io/badge/LINKEDIN-Adem%20Ben%20Chiboub-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://adem-dev-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/PORTFOLIO-adembenchiboub.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
