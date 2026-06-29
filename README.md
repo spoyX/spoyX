@@ -1,4 +1,4 @@
-# README.md
+
 
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B1020,100:1E40AF&text=Hi,%20I'm%20Adem%20👋&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Software%20Engineering%20Student&descAlignY=60&descSize=22" />
